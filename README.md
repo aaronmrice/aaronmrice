@@ -1,1 +1,1 @@
-This is the README.md that appears on my Github profile page.
+Hello, I am a person. [https://aaronmrice.com](https://aaronmrice.com)
